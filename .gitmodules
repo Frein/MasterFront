@@ -1,0 +1,3 @@
+[submodule "src/Product1"]
+	path = src/Product1
+	url = https://github.com/Frein/Product1
