@@ -1,6 +1,7 @@
 import React from 'react';
 import {Counter} from './features/counter/Counter';
 import './App.css';
+import Product1App from "../Product1/src/Product1App";
 
 function App() {
     return (
@@ -8,11 +9,12 @@ function App() {
             <header className="App-header">
                 <Counter/>
                 <p>
-                    Edit <code>src/App.js</code> and save to reload.
+                    Edit <code>src/Product1App.js</code> and save to reload.
                 </p>
             </header>
             <main>
-                Its product page.
+                It's product page.
+                <Product1App/>
             </main>
         </div>
     );
