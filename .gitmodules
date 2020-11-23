@@ -1,6 +1,0 @@
-[submodule "Product1"]
-	path = Product1
-	url = ../Product1
-[submodule "Product2"]
-	path = Product2
-	url = ../Product2
